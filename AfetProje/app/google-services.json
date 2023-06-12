@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "993023489297",
+    "firebase_url": "https://disaster-ca430-default-rtdb.firebaseio.com",
+    "project_id": "disaster-ca430",
+    "storage_bucket": "disaster-ca430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993023489297:android:0ca385373e9a79110c48b0",
+        "android_client_info": {
+          "package_name": "com.zafer.afetproje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD01VNwQL2P71_GCy8lIxxPeeYuaBMp7qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
